@@ -1,12 +1,11 @@
-# WikiYoutubeVideos
+# ExtraWikipediaLinks
 
-This repository contains the source code to a tamper monkey script to create a link from an en.wikipedia pages to corresponding YouTube videos.
+This repository contains the source code to a tamper monkey script to create extra links on en.wikipedia pages.
 
-The script works by just inserting a new link called "videos" in the menu on the left of the page that will link to:
+By default, this script creates two links:
 
-    https://www.youtube.com/results?search_query=XXX
-
-where XXX is the name of the Wikipedia article you are looking at. 
+* One to find relevant YouTube videos
+* One to link to the Kiddle kid's encyclopedia 
 
 # Author 
 Benjamin Pritchard / Kundalini Software  
